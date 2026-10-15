@@ -21,3 +21,11 @@
 поиск в ограниченном пространстве
 
 <img width="1930" height="1183" alt="image" src="https://github.com/user-attachments/assets/605ec05e-9a9d-4a9f-972d-a034f77ee524" />
+
+тут правило для импорта библиотеки kernel32.dll обращается к VirtualAllocEx
+
+<img width="934" height="281" alt="image" src="https://github.com/user-attachments/assets/e1ab4639-4022-46a6-9d9e-0bc6cc9d887f" />
+
+поиск файла по хэшу
+
+<img width="1033" height="278" alt="image" src="https://github.com/user-attachments/assets/78cfa436-0f5e-42d6-895b-a05b078eba65" />
